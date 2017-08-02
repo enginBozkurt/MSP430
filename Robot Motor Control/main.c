@@ -16,7 +16,7 @@
     //      +---+                                                                 //
 	//----------------------------------------------------------------------------//
 	// www.xanthium.in                                                            //
-    // (c) Rahul.S 2015                                                           //
+    // (c) Rahul.S and Engin BOZKURT 2015                                                           //
 	//----------------------------------------------------------------------------//
 	// More info can be found here                                                //
 	// http://www.xanthium.in/programming-msp430-launchpad-robot                  //
