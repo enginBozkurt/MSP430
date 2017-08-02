@@ -2,7 +2,7 @@
 # Do it Yourself MSP430 powered Robot for Makers
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/157487059@N03/36194252041/in/dateposted-public/" title="msp430-launchpad-robot-booster-pack"><img src="https://farm5.staticflickr.com/4298/36194252041_be54426817_z.jpg" width="625" height="487" alt="msp430-launchpad-robot-booster-pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/157487059@N03/36194252041/in/dateposted-public/" title="msp430-launchpad-robot-booster-pack"><img src="https://farm5.staticflickr.com/4298/36194252041_be54426817_z.jpg" width="625" height="487" alt="msp430-launchpad-robot-booster-pack"></a>
 
 
 
